@@ -1,0 +1,88 @@
+body {
+  background-color: #44b1f6;
+}
+.twitter-card {
+  background-color: white;
+  height: 650px;
+  width: 600px;
+  border-radius: 12px;
+  margin: 20px 0;
+  padding: 20px;
+}
+.no-padding {
+  padding: 0;
+  height: 578px;
+  border-bottom: none !important;
+}
+.text-decoration {
+  text-decoration: underline;
+  text-decoration-color: #77d2f6;
+  text-underline-offset: 8px;
+  text-decoration-thickness: 4px;
+}
+.custom-position {
+  top: 32px;
+  left: 43px;
+  font-size: 12px;
+}
+.custom-position-2 {
+  top: -65px;
+}
+.custom-height {
+  height: 150px;
+}
+.cover {
+  height: 150px;
+  background-color: #e8d1c9;
+}
+.profile-img {
+  width: 150px;
+  height: 150px;
+  background-color: #bd9281;
+  border-radius: 50%;
+  border: 5px solid white;
+  position: relative;
+  left: 10px;
+  top: -75px;
+}
+.profile-img-2 {
+  width: 100px;
+  height: 100px;
+  background-color: #bd9281;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+.profile-name {
+  position: relative;
+  left: 10px;
+  top: -75px;
+}
+.profile-name-2 {
+  left: 110px;
+  top: 15px;
+}
+h4 {
+  margin-bottom: 0px;
+}
+
+.pill {
+  border-radius: 40px;
+}
+.select-menu {
+  width: 250px;
+}
+.red {
+  background-color: rgb(252, 80, 74);
+}
+.pink {
+  background-color: pink;
+}
+.blue {
+  background-color: #44b1f6;
+}
+.text-color {
+  color: black;
+}
+.verified {
+  color: #0d6efd;
+}
